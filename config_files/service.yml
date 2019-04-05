@@ -1,2 +1,8 @@
 ---
 message: works
+
+---
+spring:
+  profile: dev
+
+message: Dev works
