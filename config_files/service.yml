@@ -1,4 +1,7 @@
 ---
+spring:
+  profile: prod
+
 message: works
 
 ---
